@@ -30,4 +30,3 @@ jobs:
 
     - name: Unit Testing
       run: npm test
-
